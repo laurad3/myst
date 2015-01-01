@@ -1,4 +1,4 @@
-myst
+Myst
 ====
 
 Game Art Project
